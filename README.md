@@ -119,10 +119,13 @@
       <a href="https://www.dio.me/certificate/D3A0OT7D" target="_blank">
         <img class="diplomas" src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
       </a>
+    </div>
 
+    <div>
       <a href="https://www.dio.me/certificate/5Y1NANCH" target="_blank">
         <img class="diplomas" src="https://hermes.dio.me/certificates/cover/46266945.jpg" alt="Estrutura de Repetição" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
       </a>
+    </div>
 
       <a href="https://www.dio.me/certificate/ZATZ9_UT" target="_blank">
         <img class="diplomas" src="https://hermes.dio.me/certificates/cover/BEE97562.jpg" alt="Logica condicional" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
