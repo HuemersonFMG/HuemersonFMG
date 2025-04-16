@@ -4,7 +4,7 @@
 📍 **Belo Horizonte, MG - Brasil**  
 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=react&logoColor=white)](https://curriculumhuemersonfmg.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huemerson-fernando/)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huemerson-fernando/](https://www.linkedin.com/in/huemersonfmg/))
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huemersonfmg@gmail.com)
 
 ---
