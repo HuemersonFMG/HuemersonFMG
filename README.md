@@ -115,16 +115,31 @@
       <li><a href="https://assets.dio.me/DK2gXr1KSENnxidbOgFOMIYUkmCqW60O07gWrDPgBJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CODJGQjlCMS5qcGc" target="_blank">Curso: Aprendendo a Sintaxe Java (5h)</a></li>
       <li><a href="https://assets.dio.me/P94BF_zSJ9RJm1JlM97riNZaI5hLkavqbXq_CR1IZ3c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zNTJEMTVCOC5qcGc" target="_blank">Curso: Princípios de Desenvolvimento de Software (14h)</a></li>
     </ul>
+    <div id="certificates" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <a href="https://www.dio.me/certificate/D3A0OT7D" target="_blank">
+        <img class="diplomas" src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+      </a>
 
-    ## 📜 Certificados
+      <a href="https://www.dio.me/certificate/5Y1NANCH" target="_blank">
+        <img class="diplomas" src="https://hermes.dio.me/certificates/cover/46266945.jpg" alt="Estrutura de Repetição" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+      </a>
 
-    [![Estrutura de Dados](https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg)](https://www.dio.me/certificate/D3A0OT7D)
-    [![Estruturas de Repetição](https://hermes.dio.me/certificates/cover/46266945.jpg)](https://www.dio.me/certificate/5Y1NANCH)
-    [![Lógica Condicional](https://hermes.dio.me/certificates/cover/BEE97562.jpg)](https://www.dio.me/certificate/ZATZ9_UT)
-    [![Fundamentos Node.js](https://hermes.dio.me/certificates/cover/CPQDXELU.jpg)](https://www.dio.me/certificate/XL4GNREL)
-    [![Sintaxe Java](https://hermes.dio.me/certificates/cover/B82FB9B1.jpg)](https://www.dio.me/certificate/DK2GXR1K)
-    [![Princípios de Software](https://hermes.dio.me/certificates/cover/352D15B8.jpg)](https://www.dio.me/certificate/P94BF_ZS)
+      <a href="https://www.dio.me/certificate/ZATZ9_UT" target="_blank">
+        <img class="diplomas" src="https://hermes.dio.me/certificates/cover/BEE97562.jpg" alt="Logica condicional" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+      </a>
 
+      <a href="https://www.dio.me/certificate/XL4GNREL" target="_blank">
+        <img class="diplomas" src="https://hermes.dio.me/certificates/cover/CPQDXELU.jpg" alt="Fundamentos Node.js" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+      </a>
+
+      <a href="https://www.dio.me/certificate/DK2GXR1K" target="_blank">
+        <img class="diplomas" src="https://hermes.dio.me/certificates/cover/B82FB9B1.jpg" alt="Aprendendo a Sintaxe Java" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+      </a>
+
+      <a href="https://www.dio.me/certificate/P94BF_ZS" target="_blank">
+        <img class="diplomas" src="https://hermes.dio.me/certificates/cover/352D15B8.jpg" alt="Princípios de Desenvolvimento de Software" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+      </a>
+    </div>
   </div>
 
   <hr>
