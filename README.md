@@ -115,7 +115,7 @@
       <li><a href="https://assets.dio.me/DK2gXr1KSENnxidbOgFOMIYUkmCqW60O07gWrDPgBJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CODJGQjlCMS5qcGc" target="_blank">Curso: Aprendendo a Sintaxe Java (5h)</a></li>
       <li><a href="https://assets.dio.me/P94BF_zSJ9RJm1JlM97riNZaI5hLkavqbXq_CR1IZ3c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zNTJEMTVCOC5qcGc" target="_blank">Curso: Princípios de Desenvolvimento de Software (14h)</a></li>
     </ul>
-    <div id="certificates" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <div>
       <a href="https://www.dio.me/certificate/D3A0OT7D" target="_blank">
         <img class="diplomas" src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
       </a>
@@ -160,14 +160,6 @@
   </p>
 
   <hr>
-
-  <h2>📫 Vamos conversar?</h2>
-
-  <p>
-    <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/huemerson-fernando/" target="_blank">linkedin.com/in/huemerson-fernando</a><br>
-    <strong>📧 E-mail:</strong> <a href="mailto:huemersonfmg@gmail.com">huemersonfmg@gmail.com</a><br>
-    <strong>🌐 Portfólio:</strong> <a href="https://curriculumhuemersonfmg.netlify.app/" target="_blank">curriculumhuemersonfmg.netlify.app</a>
-  </p>
 
   <img src="https://github.com/huemersonfmg/huemersonfmg/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
