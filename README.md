@@ -109,6 +109,7 @@
     </p>
     <ul>
       <li>Curso: Estrutura de dados em Java 03/03/2024 (9h)</li>
+      <li><a href="https://assets.dio.me/D3aUOT7d-Bgk3tCMo8vQE2WZkHqgfpL7UpMYF2kY0YI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9XRklTNEtCNS5qcGc" target="_blank">Curso: Estrutura de dados em Java 03/03/2024 (9h)</a></li>
       <li>Curso: Estruturas de Repetição e Arrays em Java 13/06/2023 (3h)</li>
       <li>Curso: Lógica Condicional e Controle de Fluxos em Java 06/05/2023 (2h)</li>
       <li>Curso: Fundamentos Node.js (6h)</li>
