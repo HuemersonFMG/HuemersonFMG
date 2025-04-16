@@ -118,12 +118,12 @@
 
     ## 📜 Certificados
 
-    [![Estrutura de Dados](https://img.shields.io/badge/-Estrutura_de_Dados-8A2BE2?style=flat&logo=java&logoColor=white)](https://www.dio.me/certificate/D3A0OT7D)
-    [![Estruturas de Repetição](https://img.shields.io/badge/-Estruturas_de_Repetição-8A2BE2?style=flat&logo=java&logoColor=white)](https://www.dio.me/certificate/5Y1NANCH)
-    [![Lógica Condicional](https://img.shields.io/badge/-Lógica_Condicional-8A2BE2?style=flat&logo=java&logoColor=white)](https://www.dio.me/certificate/ZATZ9_UT)
-    [![Fundamentos Node.js](https://img.shields.io/badge/-Fundamentos_Node.js-8A2BE2?style=flat&logo=node.js&logoColor=white)](https://www.dio.me/certificate/XL4GNREL)
-    [![Sintaxe Java](https://img.shields.io/badge/-Sintaxe_Java-8A2BE2?style=flat&logo=java&logoColor=white)](https://www.dio.me/certificate/DK2GXR1K)
-    [![Princípios de Software](https://img.shields.io/badge/-Princípios_de_Software-8A2BE2?style=flat&logo=opensourceinitiative&logoColor=white)](https://www.dio.me/certificate/P94BF_ZS)
+    [![Estrutura de Dados](https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg)](https://www.dio.me/certificate/D3A0OT7D)
+    [![Estruturas de Repetição](https://hermes.dio.me/certificates/cover/46266945.jpg)](https://www.dio.me/certificate/5Y1NANCH)
+    [![Lógica Condicional](https://hermes.dio.me/certificates/cover/BEE97562.jpg)](https://www.dio.me/certificate/ZATZ9_UT)
+    [![Fundamentos Node.js](https://hermes.dio.me/certificates/cover/CPQDXELU.jpg)](https://www.dio.me/certificate/XL4GNREL)
+    [![Sintaxe Java](https://hermes.dio.me/certificates/cover/B82FB9B1.jpg)](https://www.dio.me/certificate/DK2GXR1K)
+    [![Princípios de Software](https://hermes.dio.me/certificates/cover/352D15B8.jpg)](https://www.dio.me/certificate/P94BF_ZS)
 
   </div>
 
