@@ -11,9 +11,7 @@
 
 ---
 
-<h1>Tecnologias</h1>
-
-## 🛠️ **Tecnologias e Habilidades**
+<h1 style="color: blue;">🛠️ Tecnologias e Habilidades</h1>
 
 ### **Front-end**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
