@@ -2,7 +2,7 @@
   <h1 style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">👨‍⚖️ Olá, eu sou Huemerson Garcia!</h1>
 
   <p style="text-align: justify;">
-    <strong>💼 Estudande de Tecnologia da Informação | Especializando em Desenvolvedor Full-Stack</strong><br>
+    <strong>💼 Estudante de Tecnologia da Informação | Especializando em Desenvolvedor Full-Stack</strong><br>
     <strong>📍 Belo Horizonte, MG - Brasil</strong>
   </p>
 
