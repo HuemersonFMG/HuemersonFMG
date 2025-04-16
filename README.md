@@ -11,6 +11,8 @@
 
 ---
 
+<h1>Tecnologias</h1>
+
 ## 🛠️ **Tecnologias e Habilidades**
 
 ### **Front-end**
@@ -37,14 +39,19 @@
 
 ## 📌 **Experiência Profissional**
 
-### **Engenheiro de Software - [Empresa]**
-- Desenvolvimento de aplicações web com **React e Node.js**.
-- Integração de APIs RESTful e bancos de dados **PostgreSQL**.
-- Colaboração em equipes ágeis (**Scrum/Kanban**).
-
-### **Desenvolvedor Full-Stack - [Empresa]**
-- Criação de sistemas internos com **Django e Python**.
-- Implementação de testes automatizados (**Jest, Cypress**).
+<div class="w3-container">
+    <h5 class="w3-opacity"><b>Way Logistica e Transportes - Auxiliar Administrativo - Suporte Técnico</b></h5>
+    <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Inicio - <span class="w3-tag w3-teal w3-round">Janeiro de 2019 </span></h6>
+    <p>Faturamento de notas fiscais; Tratamento das notas fiscais de matérias primas e produtos acabados,
+      entrada de mercadoria no sistema Sankhya; Atuando na automatização manutenção de processos Intecli-Excel;
+      Executar serviços de apoio nas áreas de recursos de administração,
+      finanças e logística; Atendimento de fornecedores, fornecendo e recebendo informações sobre produtos e serviços;
+      Tratamento de documentos variados, cumprindo todo o procedimento necessário referente aos mesmos;
+      Arquivamento e manutenção de documentos digitais;
+      Suporte técnico de informática - ERP Sankhya;
+      Suporte técnico e orientação para Usuários do ERP Sankhya</p>
+    <hr>
+  </div>
 
 ---
 
