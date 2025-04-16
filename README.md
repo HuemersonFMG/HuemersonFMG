@@ -115,6 +115,19 @@
       <li><a href="https://assets.dio.me/DK2gXr1KSENnxidbOgFOMIYUkmCqW60O07gWrDPgBJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CODJGQjlCMS5qcGc" target="_blank">Curso: Aprendendo a Sintaxe Java (5h)</a></li>
       <li><a href="https://assets.dio.me/P94BF_zSJ9RJm1JlM97riNZaI5hLkavqbXq_CR1IZ3c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zNTJEMTVCOC5qcGc" target="_blank">Curso: Princípios de Desenvolvimento de Software (14h)</a></li>
     </ul>
+    <div id="certificates">
+      <img class="diplomas" src="https://assets.dio.me/D3aUOT7d-Bgk3tCMo8vQE2WZkHqgfpL7UpMYF2kY0YI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9XRklTNEtCNS5qcGc" alt="Estrutura de Dados">
+
+      <img class="diplomas" src="https://assets.dio.me/sY1NaNCHntR42e1Vha5GYqZFhdGB0omu4hFir0j_jbo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80NjI2Njk0NS5qcGc" alt="Estrutura de Repetição">
+
+      <img class="diplomas" src="https://assets.dio.me/zAtZ9_UtCKUBTp1x2GcMDrgcVO1TINM7O-AKjDpvaJU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CRUU5NzU2Mi5qcGc" alt="Logica condicional">
+
+      <img class="diplomas" src="https://assets.dio.me/xL4GnRELgHo7Uz34gKt9OB2PUh4c2mfdgwi7_XCiJEw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DUFFEWEVMVS5qcGc" alt="Fundamentos Node.js">
+
+      <img class="diplomas" src="https://assets.dio.me/DK2gXr1KSENnxidbOgFOMIYUkmCqW60O07gWrDPgBJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CODJGQjlCMS5qcGc" alt="Aprendendo a Sintaxe Java">
+
+      <img class="diplomas" src="https://assets.dio.me/P94BF_zSJ9RJm1JlM97riNZaI5hLkavqbXq_CR1IZ3c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zNTJEMTVCOC5qcGc" alt="Princípios de Desenvolvimento de Software">
+    </div>
   </div>
 
   <hr>
