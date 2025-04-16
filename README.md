@@ -108,13 +108,16 @@
       de ensino imersivas e com foco em empregabilidade.
     </p>
     <ul>
-      <li>Curso: Estrutura de dados em Java 03/03/2024 (9h)</li>
       <li><a href="https://assets.dio.me/D3aUOT7d-Bgk3tCMo8vQE2WZkHqgfpL7UpMYF2kY0YI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9XRklTNEtCNS5qcGc" target="_blank">Curso: Estrutura de dados em Java 03/03/2024 (9h)</a></li>
-      <li>Curso: Estruturas de Repetição e Arrays em Java 13/06/2023 (3h)</li>
-      <li>Curso: Lógica Condicional e Controle de Fluxos em Java 06/05/2023 (2h)</li>
-      <li>Curso: Fundamentos Node.js (6h)</li>
-      <li>Curso: Aprendendo a Sintaxe Java (5h)</li>
-      <li>Curso: Princípios de Desenvolvimento de Software (14h)</li>
+
+      <li><a href="https://assets.dio.me/sY1NaNCHntR42e1Vha5GYqZFhdGB0omu4hFir0j_jbo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80NjI2Njk0NS5qcGc" target="_blank">Curso: Estruturas de Repetição e Arrays em Java 13/06/2023 (3h)</a></li>
+
+      <li><a href="https://assets.dio.me/zAtZ9_UtCKUBTp1x2GcMDrgcVO1TINM7O-AKjDpvaJU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CRUU5NzU2Mi5qcGc" target="_blank">Curso: Lógica Condicional e Controle de Fluxos em Java 06/05/2023 (2h)</a></li>
+
+      <li><a href="https://assets.dio.me/xL4GnRELgHo7Uz34gKt9OB2PUh4c2mfdgwi7_XCiJEw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DUFFEWEVMVS5qcGc" target="_blank">Curso: Fundamentos Node.js (6h)</a></li>
+      <li><a href="https://assets.dio.me/DK2gXr1KSENnxidbOgFOMIYUkmCqW60O07gWrDPgBJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CODJGQjlCMS5qcGc" target="_blank">Curso: Aprendendo a Sintaxe Java (5h)</a></li>
+
+      <li><a href="https://assets.dio.me/P94BF_zSJ9RJm1JlM97riNZaI5hLkavqbXq_CR1IZ3c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zNTJEMTVCOC5qcGc" target="_blank">Curso: Princípios de Desenvolvimento de Software (14h)</a></li>
     </ul>
   </div>
 
