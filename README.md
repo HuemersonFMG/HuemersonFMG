@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Huemerson Fernando!
+# 👋 Olá, eu sou Huemerson Garcia!
 
-💼 **Engenheiro de Software | Desenvolvedor Full-Stack**  
+💼 **Estudante de Tecnologia da Informação | Especializando em Desenvolvedor Full-Stack**  
 📍 **Belo Horizonte, MG - Brasil**  
 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=react&logoColor=white)](https://curriculumhuemersonfmg.netlify.app/)
