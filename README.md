@@ -35,7 +35,7 @@
 
 ---
 
-## 📌 **Experiência Profissional**
+<h1>📌 **Experiência Profissional</h1>
 
 <div class="w3-container">
     <h5 class="w3-opacity"><b>Way Logistica e Transportes - Auxiliar Administrativo - Suporte Técnico</b></h5>
@@ -60,6 +60,58 @@
 | **[Portfólio](https://curriculumhuemersonfmg.netlify.app/)** | Meu currículo online interativo. | React, TypeScript, Tailwind CSS |
 | **[Sistema de Gestão]()** | Plataforma para gerenciamento de tarefas. | Django, PostgreSQL, Docker |
 | **[API RESTful]()** | Back-end para aplicação de e-commerce. | Node.js, Express, MongoDB |
+
+---
+
+<div class="w3-container w3-card w3-white">
+    <h2 class="w3-text-grey w3-padding-16">
+      <i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i><span class="spamA">Educação</span>
+    </h2>
+    <div class="w3-container">
+      <h5 class="w3-opacity"><b>Digital Innovation One (DIO)</b></h5>
+      <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>INICIO - <span class="w3-tag w3-teal w3-round">12/2021</span></h6>
+      <p>
+        Maior plataforma de educação aberta em TI da América Latina, com mais 1 milhão de usuários.
+        A DIO possui parcerias com algumas das empresas mais inovadoras do mundo, proporcionando experiências
+        de ensino imersivas e com foco em empregabilidade. Nesse contexto, seguem meus principais certificados:
+      </p>
+      <div class="highlight"><ul class="custom-list">
+          <li><a href="https://assets.dio.me/D3aUOT7d-Bgk3tCMo8vQE2WZkHqgfpL7UpMYF2kY0YI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9XRklTNEtCNS5qcGc" target="_blank">Curso: Estrutura de dados em Java 03/03/2024 (9h)</a></li>
+
+          <li><a href="https://assets.dio.me/sY1NaNCHntR42e1Vha5GYqZFhdGB0omu4hFir0j_jbo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80NjI2Njk0NS5qcGc" target="_blank">Curso: Estruturas de Repetição e Arrays em Java 13/06/2023 (3h)</a></li>
+
+          <li><a href="https://assets.dio.me/zAtZ9_UtCKUBTp1x2GcMDrgcVO1TINM7O-AKjDpvaJU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CRUU5NzU2Mi5qcGc" target="_blank">Curso: Lógica Condicional e Controle de Fluxos em Java 06/05/2023 (2h)</a></li>
+
+          <li><a href="https://assets.dio.me/xL4GnRELgHo7Uz34gKt9OB2PUh4c2mfdgwi7_XCiJEw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DUFFEWEVMVS5qcGc" target="_blank">Curso: Fundamentos Node.js (6h)</a></li>
+          <li><a href="https://assets.dio.me/DK2gXr1KSENnxidbOgFOMIYUkmCqW60O07gWrDPgBJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CODJGQjlCMS5qcGc" target="_blank">Curso: Aprendendo a Sintaxe Java (5h)</a></li>
+
+          <li><a href="https://assets.dio.me/P94BF_zSJ9RJm1JlM97riNZaI5hLkavqbXq_CR1IZ3c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zNTJEMTVCOC5qcGc" target="_blank">Curso: Princípios de Desenvolvimento de Software (14h)</a></li>
+        </ul>
+        <hr>
+          <div>
+            <img class="diplomas" src="https://assets.dio.me/D3aUOT7d-Bgk3tCMo8vQE2WZkHqgfpL7UpMYF2kY0YI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9XRklTNEtCNS5qcGc" alt="Estrutura de Dados">
+
+            <img class="diplomas" src="https://assets.dio.me/sY1NaNCHntR42e1Vha5GYqZFhdGB0omu4hFir0j_jbo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80NjI2Njk0NS5qcGc" alt="Estrutura de Repetição">
+
+            <img class="diplomas" src="https://assets.dio.me/zAtZ9_UtCKUBTp1x2GcMDrgcVO1TINM7O-AKjDpvaJU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CRUU5NzU2Mi5qcGc" alt="Logica condicional">
+
+            <img class="diplomas" src="https://assets.dio.me/xL4GnRELgHo7Uz34gKt9OB2PUh4c2mfdgwi7_XCiJEw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DUFFEWEVMVS5qcGc" alt="Fundamentos Node.js">
+
+            <img class="diplomas" src="https://assets.dio.me/DK2gXr1KSENnxidbOgFOMIYUkmCqW60O07gWrDPgBJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CODJGQjlCMS5qcGc" alt="Aprendendo a Sintaxe Java">
+
+            <img class="diplomas" src="https://assets.dio.me/P94BF_zSJ9RJm1JlM97riNZaI5hLkavqbXq_CR1IZ3c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zNTJEMTVCOC5qcGc" alt="Princípios de Desenvolvimento de Software">
+          </div>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="w3-container">
+      <h5 class="w3-opacity"><b>Escola Estadual Helena Guerra</b></h5>
+      <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>1989 - 1993</h6>
+      <p>Magistério e Pedagogia infantil</p>
+    </div>
+  </div>
 
 ---
 
