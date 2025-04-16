@@ -1,11 +1,11 @@
-<div align="center">
+<div align="justify">
   <h1>👨‍⚖️ Olá, eu sou Huemerson Garcia!</h1>
-  
-  <p>
+
+  <p style="text-align: justify;">
     <strong>💼 Estudande de Tecnologia da Informação | Especializando em Desenvolvedor Full-Stack</strong><br>
     <strong>📍 Belo Horizonte, MG - Brasil</strong>
   </p>
-  
+
   <p>
     <a href="https://curriculumhuemersonfmg.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/-Portfólio-000?style=flat&logo=react&logoColor=white" alt="Portfólio">
@@ -17,11 +17,11 @@
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
-  
+
   <hr>
-  
+
   <h2 style="color: blue;">🛠️ Tecnologias e Habilidades</h2>
-  
+
   <h3>Front-end</h3>
   <p>
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/-Dhelpi-8A2BE2?logo=github&logoColor=white" alt="Dhelpi">
   </p>
-  
+
   <h3>Back-end</h3>
   <p>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
@@ -40,18 +40,18 @@
     <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
   </p>
-  
+
   <h3>Ferramentas</h3>
   <p>
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
   </p>
-  
+
   <hr>
-  
+
   <h2>📌 Experiência Profissional</h2>
-  
+
   <div style="margin-bottom: 20px;">
     <h3>Way Logistica e Transportes - Auxiliar Administrativo - Suporte Técnico</h3>
     <p><em>Janeiro de 2019</em></p>
@@ -67,11 +67,11 @@
       <li>Suporte técnico e orientação para Usuários do ERP Sankhya.</li>
     </ul>
   </div>
-  
+
   <hr>
-  
+
   <h2>🚀 Projetos em Destaque</h2>
-  
+
   <table border="1" style="width: 100%; border-collapse: collapse;">
     <tr>
       <th>Projeto</th>
@@ -94,11 +94,11 @@
       <td>Node.js, Express, MongoDB</td>
     </tr>
   </table>
-  
+
   <hr>
-  
+
   <h2>🏆 Educação</h2>
-  
+
   <div style="margin-bottom: 20px;">
     <h3>Digital Innovation One (DIO)</h3>
     <p><em>Início: Dezembro 2021</em></p>
@@ -116,31 +116,31 @@
       <li>Curso: Princípios de Desenvolvimento de Software (14h)</li>
     </ul>
   </div>
-  
+
   <div>
     <h3>Escola Estadual Helena Guerra</h3>
     <p><em>1989 - 1993</em></p>
     <p>Magistério e Pedagogia infantil</p>
   </div>
-  
+
   <hr>
-  
+
   <h2>📊 Estatísticas do GitHub</h2>
-  
+
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=huemersonfmg&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huemersonfmg&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas">
   </p>
-  
+
   <hr>
-  
+
   <h2>📫 Vamos conversar?</h2>
-  
+
   <p>
     <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/huemerson-fernando/" target="_blank">linkedin.com/in/huemerson-fernando</a><br>
     <strong>📧 E-mail:</strong> <a href="mailto:huemersonfmg@gmail.com">huemersonfmg@gmail.com</a><br>
     <strong>🌐 Portfólio:</strong> <a href="https://curriculumhuemersonfmg.netlify.app/" target="_blank">curriculumhuemersonfmg.netlify.app</a>
   </p>
-  
+
   <img src="https://github.com/huemersonfmg/huemersonfmg/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
