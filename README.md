@@ -167,5 +167,8 @@
 
   <hr>
 
-  <img src="https://github.com/huemersonfmg/huemersonfmg/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/HuemersonFMG/HuemersonFMG/main/images/Programadorb.gif"
+    alt="Programador digitando código" width="100%">
+</p>
 </div>
