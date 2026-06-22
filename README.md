@@ -127,29 +127,29 @@
 </ul>
 
 <p>
-    <a href="https://www.dio.me/certificate/D3A0OT7D/share" target="_blank">
-    <img src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" width="100">
-    </a>
+<a href="https://www.dio.me/certificate/D3A0OT7D/share" target="_blank">
+<img src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" width="100">
+</a>
 
-    <a href="https://www.dio.me/certificate/5Y1NANCH/share" target="_blank">
-    <img src="https://hermes.dio.me/certificates/cover/46266945.jpg" alt="Estruturas de Repetição e Arrays" width="100">
-    </a>
+<a href="https://www.dio.me/certificate/5Y1NANCH/share" target="_blank">
+<img src="https://hermes.dio.me/certificates/cover/46266945.jpg" alt="Estruturas de Repetição e Arrays" width="100">
+</a>
 
-    <a href="https://www.dio.me/certificate/ZATZ9_UT/share" target="_blank">
-    <img src="https://hermes.dio.me/certificates/cover/BEE97562.jpg" alt="Lógica Condicional" width="100">
-    </a>
+<a href="https://www.dio.me/certificate/ZATZ9_UT/share" target="_blank">
+<img src="https://hermes.dio.me/certificates/cover/BEE97562.jpg" alt="Lógica Condicional" width="100">
+</a>
 
-    <a href="https://www.dio.me/certificate/XL4GNREL/share" target="_blank">
-    <img src="https://hermes.dio.me/certificates/cover/CPQDXELU.jpg" alt="Fundamentos de Node.js" width="100">
-    </a>
+<a href="https://www.dio.me/certificate/XL4GNREL/share" target="_blank">
+<img src="https://hermes.dio.me/certificates/cover/CPQDXELU.jpg" alt="Fundamentos de Node.js" width="100">
+</a>
 
-    <a href="https://www.dio.me/certificate/DK2GXR1K/share" target="_blank">
-    <img src="https://hermes.dio.me/certificates/cover/B82FB9B1.jpg" alt="Sintaxe Java" width="100">
-    </a>
+<a href="https://www.dio.me/certificate/DK2GXR1K/share" target="_blank">
+<img src="https://hermes.dio.me/certificates/cover/B82FB9B1.jpg" alt="Sintaxe Java" width="100">
+</a>
 
-    <a href="https://www.dio.me/certificate/P94BF_ZS/share" target="_blank">
-    <img src="https://hermes.dio.me/certificates/cover/352D15B8.jpg" alt="Princípios de Desenvolvimento de Software" width="100">
-    </a>
+<a href="https://www.dio.me/certificate/P94BF_ZS/share" target="_blank">
+<img src="https://hermes.dio.me/certificates/cover/352D15B8.jpg" alt="Princípios de Desenvolvimento de Software" width="100">
+</a>
 </p>
 
   <hr>
