@@ -127,7 +127,7 @@
       <li><a href="https://www.dio.me/certificate/P94BF_ZS/share" target="_blank">Princípios de Desenvolvimento de Software (14h)</a></li>
     </ul>
 
-    <p align="center">
+    <p>
       <a href="https://www.dio.me/certificate/D3A0OT7D/share" target="_blank">
         <img src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" width="100">
       </a>
