@@ -110,47 +110,47 @@
 
   <h2>🏆 Educação</h2>
 
-    <h3>Digital Innovation One (DIO)</h3>
-    <p><em>Início: dezembro de 2021</em></p>
-    <p>
-      Plataforma de educação em tecnologia com cursos voltados ao desenvolvimento de software,
-      lógica de programação, back-end, front-end e fundamentos de TI.
-    </p>
+<h3>Digital Innovation One (DIO)</h3>
+<p><em>Início: dezembro de 2021</em></p>
+<p>
+    Plataforma de educação em tecnologia com cursos voltados ao desenvolvimento de software,
+    lógica de programação, back-end, front-end e fundamentos de TI.
+</p>
 
-    <ul>
-      <li><a href="https://www.dio.me/certificate/D3A0OT7D/share" target="_blank">Estrutura de Dados em Java — 03/03/2024 (9h)</a></li>
-      <li><a href="https://www.dio.me/certificate/5Y1NANCH/share" target="_blank">Estruturas de Repetição e Arrays em Java — 13/06/2023 (3h)</a></li>
-      <li><a href="https://www.dio.me/certificate/ZATZ9_UT/share" target="_blank">Lógica Condicional e Controle de Fluxos em Java — 06/05/2023 (2h)</a></li>
-      <li><a href="https://www.dio.me/certificate/XL4GNREL/share" target="_blank">Fundamentos de Node.js (6h)</a></li>
-      <li><a href="https://www.dio.me/certificate/DK2GXR1K/share" target="_blank">Aprendendo a Sintaxe Java (5h)</a></li>
-      <li><a href="https://www.dio.me/certificate/P94BF_ZS/share" target="_blank">Princípios de Desenvolvimento de Software (14h)</a></li>
-    </ul>
+<ul>
+    <li><a href="https://www.dio.me/certificate/D3A0OT7D/share" target="_blank">Estrutura de Dados em Java — 03/03/2024 (9h)</a></li>
+    <li><a href="https://www.dio.me/certificate/5Y1NANCH/share" target="_blank">Estruturas de Repetição e Arrays em Java — 13/06/2023 (3h)</a></li>
+    <li><a href="https://www.dio.me/certificate/ZATZ9_UT/share" target="_blank">Lógica Condicional e Controle de Fluxos em Java — 06/05/2023 (2h)</a></li>
+    <li><a href="https://www.dio.me/certificate/XL4GNREL/share" target="_blank">Fundamentos de Node.js (6h)</a></li>
+    <li><a href="https://www.dio.me/certificate/DK2GXR1K/share" target="_blank">Aprendendo a Sintaxe Java (5h)</a></li>
+    <li><a href="https://www.dio.me/certificate/P94BF_ZS/share" target="_blank">Princípios de Desenvolvimento de Software (14h)</a></li>
+</ul>
 
-    <p>
-      <a href="https://www.dio.me/certificate/D3A0OT7D/share" target="_blank">
-        <img src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" width="100">
-      </a>
+<p>
+    <a href="https://www.dio.me/certificate/D3A0OT7D/share" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/WFIS4KB5.jpg" alt="Estrutura de Dados" width="100">
+    </a>
 
-      <a href="https://www.dio.me/certificate/5Y1NANCH/share" target="_blank">
-        <img src="https://hermes.dio.me/certificates/cover/46266945.jpg" alt="Estruturas de Repetição e Arrays" width="100">
-      </a>
+    <a href="https://www.dio.me/certificate/5Y1NANCH/share" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/46266945.jpg" alt="Estruturas de Repetição e Arrays" width="100">
+    </a>
 
-      <a href="https://www.dio.me/certificate/ZATZ9_UT/share" target="_blank">
-        <img src="https://hermes.dio.me/certificates/cover/BEE97562.jpg" alt="Lógica Condicional" width="100">
-      </a>
+    <a href="https://www.dio.me/certificate/ZATZ9_UT/share" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/BEE97562.jpg" alt="Lógica Condicional" width="100">
+    </a>
 
-      <a href="https://www.dio.me/certificate/XL4GNREL/share" target="_blank">
-        <img src="https://hermes.dio.me/certificates/cover/CPQDXELU.jpg" alt="Fundamentos de Node.js" width="100">
-      </a>
+    <a href="https://www.dio.me/certificate/XL4GNREL/share" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/CPQDXELU.jpg" alt="Fundamentos de Node.js" width="100">
+    </a>
 
-      <a href="https://www.dio.me/certificate/DK2GXR1K/share" target="_blank">
-        <img src="https://hermes.dio.me/certificates/cover/B82FB9B1.jpg" alt="Sintaxe Java" width="100">
-      </a>
+    <a href="https://www.dio.me/certificate/DK2GXR1K/share" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/B82FB9B1.jpg" alt="Sintaxe Java" width="100">
+    </a>
 
-      <a href="https://www.dio.me/certificate/P94BF_ZS/share" target="_blank">
-        <img src="https://hermes.dio.me/certificates/cover/352D15B8.jpg" alt="Princípios de Desenvolvimento de Software" width="100">
-      </a>
-    </p>
+    <a href="https://www.dio.me/certificate/P94BF_ZS/share" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/352D15B8.jpg" alt="Princípios de Desenvolvimento de Software" width="100">
+    </a>
+</p>
 
   <hr>
 
