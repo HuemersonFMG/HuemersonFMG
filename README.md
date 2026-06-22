@@ -151,6 +151,12 @@
   </div>
 
   <hr>
+  <div>
+    <h3>Faculdade Estácio de Sá</h3>
+    <p><em>2026</em></p>
+    <p>ADS - Análise e Desenvolvimento de Sistemas</p>
+  </div>
+  <hr>
 
   <h2>📊 Estatísticas do GitHub</h2>
 
