@@ -169,6 +169,6 @@
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/HuemersonFMG/HuemersonFMG/main/images/Programadorb.gif"
-    alt="Programador digitando código" width="100%">
+    alt="Programador digitando código" width="30%">
 </p>
 </div>
