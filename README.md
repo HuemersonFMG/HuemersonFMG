@@ -110,7 +110,6 @@
 
   <h2>🏆 Educação</h2>
 
-  <div>
     <h3>Digital Innovation One (DIO)</h3>
     <p><em>Início: dezembro de 2021</em></p>
     <p>
@@ -152,7 +151,6 @@
         <img src="https://hermes.dio.me/certificates/cover/352D15B8.jpg" alt="Princípios de Desenvolvimento de Software" width="100">
       </a>
     </p>
-  </div>
 
   <hr>
 
