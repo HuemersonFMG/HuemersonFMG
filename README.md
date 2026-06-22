@@ -181,3 +181,23 @@
   </p>
 
 </div>
+
+<hr>
+
+<h2>🎯 Objetivos Profissionais</h2>
+
+<p>
+Após muitos anos desenvolvendo soluções Desktop, automações corporativas e recentemente Personalizações e integrações com o ERP Sankhya,
+estou ampliando minha atuação para o desenvolvimento Web, acompanhando a evolução tecnológica do mercado.
+</p>
+
+<p>
+Meu foco é unir a experiência adquirida em análise de sistemas, banco de dados Oracle, regras de negócio e
+integrações corporativas às tecnologias modernas do ecossistema JavaScript, como React, Node.js e TypeScript,
+construindo aplicações Full-Stack robustas, escaláveis e de alta qualidade.
+</p>
+
+<p>
+Acredito que a combinação entre experiência prática, aprendizado contínuo e paixão por tecnologia é o caminho
+para desenvolver soluções que realmente façam a diferença para empresas e usuários.
+</p>
