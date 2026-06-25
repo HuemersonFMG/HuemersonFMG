@@ -102,7 +102,7 @@
     <tr>
       <td>API de Acompanhamento Copa 2026</td>
       <td>API de retorno automático para as tabelas da Copa de 2026, com destaque nos jogos do Brasil.</td>
-      <td>Node.js, Express, Oracle, Sankhya</td>
+      <td>Node.js, Express, API Football-Data</td>
     </tr>
     <tr>
       <td>Projetos Acadêmicos Estácio</td>
